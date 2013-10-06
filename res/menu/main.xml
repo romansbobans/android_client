@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/lv_lang"
+        android:orderInCategory="100"
+        android:title="@string/latvian_lang"/>
+    <item
+        android:id="@+id/ru_lang"
+        android:orderInCategory="100"
+        android:title="@string/russian_lang"/>
+
+    <item
+        android:id="@+id/en_lang"
+        android:orderInCategory="100"
+        android:title="@string/english_lang"/>
+</menu>

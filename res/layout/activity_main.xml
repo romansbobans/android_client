@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/button_margin_sides"
+        android:layout_marginRight="@dimen/button_margin_sides"
+        android:src="@drawable/loogo" />
+
+    <Button
+        android:id="@+id/btn_museums"
+        android:textColor="@color/button_text_color"
+        android:background="@drawable/button_colors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/button_margin_sides"
+        android:layout_marginRight="@dimen/button_margin_sides"
+        android:layout_marginTop="@dimen/button_margn_top_bottom"
+        android:text="@string/mseums_text" />
+
+    <Button
+        android:id="@+id/btn_monuments"
+        android:textColor="@color/button_text_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_colors"
+        android:layout_marginLeft="@dimen/button_margin_sides"
+        android:layout_marginRight="@dimen/button_margin_sides"
+        android:layout_marginTop="@dimen/button_margn_top_bottom"
+        android:text="@string/monuments_text" />
+
+    <Button
+        android:id="@+id/btn_cows"
+        android:textColor="@color/button_text_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_colors"
+        android:layout_marginLeft="@dimen/button_margin_sides"
+        android:layout_marginRight="@dimen/button_margin_sides"
+        android:layout_marginTop="@dimen/button_margn_top_bottom"
+        android:text="@string/cows_text" />
+
+    <Button
+        android:id="@+id/btn_events"
+        android:textColor="@color/button_text_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_colors"
+        android:layout_marginLeft="@dimen/button_margin_sides"
+        android:layout_marginRight="@dimen/button_margin_sides"
+        android:layout_marginTop="@dimen/button_margn_top_bottom"
+        android:text="@string/events_text" />
+
+    <Button
+        android:id="@+id/btn_others"
+        android:textColor="@color/button_text_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_colors"
+        android:layout_marginLeft="@dimen/button_margin_sides"
+        android:layout_marginRight="@dimen/button_margin_sides"
+        android:layout_marginTop="@dimen/button_margn_top_bottom"
+        android:text="@string/others_text" />
+
+</LinearLayout>

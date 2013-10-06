@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Visit Smart</string>
+    <string name="title_activity_object_list">Objects</string>
+    <string name="title_activity_map_view">MapView</string>
+    <string name="title_activity_object_description">ObjectDescriptionActivity</string>
+    <string name="mseums_text">Muzeji</string>
+    <string name="monuments_text">Pieminekļi</string>
+    <string name="others_text">Citi</string>
+    <string name="cows_text">Govis</string>
+    <string name="events_text">Notikumi</string>
+    <string name="submit_comment_btn">Sūtīt</string>
+    <string name="comments_title_text">KOMENTĀRI</string>
+    <string name="entrance_fee_text">Ieejas maksa</string>
+    <string name="opening_hrs_text">Darba laiks</string>
+    <string name="phone_no_text">"Tālruņa numurs: "</string>
+    <string name="email_text">"E-pasts: "</string>
+    <string name="address_text">"Adrese: "</string>
+    <string name="homepage_text">"Mājaslapa: "</string>
+    <string name="go_to_maps_text">Aplūko, kā tur nokļūt</string>
+    <string name="comment_added">Komentārs pievienots</string>
+    <string name="retry_btn">Mēģināt vēlreiz</string>
+    <string name="go_back_btn">Iet atpakaļ</string>
+    <string name="network_error_text">Atvainojiet, bet nevar izveidot savienojumu ar serveri</string>
+    <string name="russian_lang">Русский язык</string>
+    <string name="latvian_lang">Latviešu valoda</string>
+    <string name="english_lang">English</string>
+
+</resources>

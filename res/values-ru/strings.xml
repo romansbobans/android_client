@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Visit Smart</string>
+    <string name="title_activity_object_list">Objects</string>
+    <string name="title_activity_map_view">MapView</string>
+    <string name="title_activity_object_description">ObjectDescriptionActivity</string>
+    <string name="mseums_text">Музеи</string>
+    <string name="monuments_text">Памятники</string>
+    <string name="others_text">Другие</string>
+    <string name="cows_text">Коровы</string>
+    <string name="events_text">события</string>
+    <string name="submit_comment_btn">Отослать</string>
+    <string name="comments_title_text">КОМЕНТАРИИ</string>
+    <string name="entrance_fee_text">Плата входа</string>
+    <string name="opening_hrs_text">Рабочее время</string>
+    <string name="phone_no_text">"Номер телефона: "</string>
+    <string name="email_text">"Электронная почта: "</string>
+    <string name="address_text">"Адрес: "</string>
+    <string name="homepage_text">"Домашняя страница: "</string>
+    <string name="go_to_maps_text">Посмотри, как туда добраться</string>
+    <string name="comment_added">Коментарий добавлен</string>
+    <string name="retry_btn">Перезагрузить</string>
+    <string name="go_back_btn">Идти обратно</string>
+    <string name="network_error_text">Извените, не получилось</string>
+    <string name="russian_lang">Русский язык</string>
+    <string name="latvian_lang">Latviešu valoda</string>
+    <string name="english_lang">English</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Visit Smart</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_object_list">Objects</string>
+    <string name="title_activity_map_view">MapView</string>
+    <string name="title_activity_object_description">ObjectDescriptionActivity</string>
+    <string name="mseums_text">Museums</string>
+    <string name="monuments_text">Monuments</string>
+    <string name="others_text">Other</string>
+    <string name="cows_text">Cows</string>
+    <string name="events_text">Events</string>
+    <string name="submit_comment_btn">Send</string>
+    <string name="comments_title_text">COMMENTS</string>
+    <string name="entrance_fee_text">Entrance fee</string>
+    <string name="opening_hrs_text">Opening hours</string>
+    <string name="phone_no_text">"Phone number: "</string>
+    <string name="email_text">"E-mail: "</string>
+    <string name="address_text">"Address: "</string>
+    <string name="homepage_text">"Homepage: "</string>
+    <string name="go_to_maps_text">See how to get there</string>
+    <string name="comment_added">Comment added</string>
+    <string name="retry_btn">Retry</string>
+    <string name="go_back_btn">Go back</string>
+    <string name="network_error_text">Sorry, the network is down</string>
+    <string name="russian_lang">Русский язык</string>
+    <string name="latvian_lang">Latviešu valoda</string>
+    <string name="english_lang">English</string>
+
+</resources>
