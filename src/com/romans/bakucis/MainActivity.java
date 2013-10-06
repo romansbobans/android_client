@@ -15,7 +15,7 @@ public class MainActivity extends ParentActivity implements OnClickListener {
 
 	Button museumsBtn, monumentsBtn, cowsBtn, othersBtn, eventsBtn;
 
-	
+	                    //dsfdgfdsg
 	
 	
 	static final int TYPE_OBJECTS = 1; 
